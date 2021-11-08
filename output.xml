@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.1.1 (Python 3.9.6 on win32)" generated="20211108 10:45:48.789" rpa="false" schemaversion="2">
+<suite id="s1" name="Ho Testcase" source="C:\Users\DELL\PycharmProjects\5GAutomation\Testsuite\ho_testcase.robot">
+<test id="s1-t1" name="inter_ngran_test">
+<kw name="ngran_ho1">
+<kw name="Inter Ngran Ho 16" library="HO">
+<msg timestamp="20211108 10:45:56.016" level="INFO">UE = i 1
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 2
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 3
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 4
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 5
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 6
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 7
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 8
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 9
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 10
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 11
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 12
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 13
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 14
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 15
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 16
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found</msg>
+<status status="PASS" starttime="20211108 10:45:55.471" endtime="20211108 10:45:56.017"/>
+</kw>
+<kw name="Inter Ngran Ho 32" library="HO">
+<msg timestamp="20211108 10:45:57.124" level="INFO">UE = i 1
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 2
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 3
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 4
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 5
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 6
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 7
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 8
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 9
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 10
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 11
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 12
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 13
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 14
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 15
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 16
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 17
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 18
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 19
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 20
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 21
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 22
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 23
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 24
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 25
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 26
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 27
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 28
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 29
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 30
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 31
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found
+UE = i 32
+meas_control found
+meas_report found
+gNB configuration transfer found
+AMF Configuration Transfer found
+gNB configuration transfer found
+AMF configuration transfer found
+Xn setup request found
+Xn setup response found
+Handover Request found
+Handover Response Ack found
+RRC Reconfiguration found</msg>
+<status status="PASS" starttime="20211108 10:45:56.017" endtime="20211108 10:45:57.124"/>
+</kw>
+<kw name="GNB HO" library="HO">
+<msg timestamp="20211108 10:45:57.124" level="INFO">gNB asking UE to perform meas_control and send meas_report
+gNB gets the meas_report ....
+find the target cell
+HO will not initiate</msg>
+<status status="PASS" starttime="20211108 10:45:57.124" endtime="20211108 10:45:57.124"/>
+</kw>
+<kw name="Meas Config 27" library="HO">
+<msg timestamp="20211108 10:45:57.126" level="INFO">perform measObject to removal procedure
+perform measobject to addmodlist
+perform reportconfig to removal procedure
+perform reportconfig to addmodlist procedure
+perform quantity config procedure
+perform measid to remove list procedure
+perform measid to addmodlist procedure
+perform measGap config procedure
+perform set RSRP, Varmeasconfig procedure</msg>
+<status status="PASS" starttime="20211108 10:45:57.125" endtime="20211108 10:45:57.126"/>
+</kw>
+<status status="PASS" starttime="20211108 10:45:55.471" endtime="20211108 10:45:57.126"/>
+</kw>
+<status status="PASS" starttime="20211108 10:45:55.470" endtime="20211108 10:45:57.127"/>
+</test>
+<status status="PASS" starttime="20211108 10:45:48.791" endtime="20211108 10:45:57.129"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Ho Testcase">Ho Testcase</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
